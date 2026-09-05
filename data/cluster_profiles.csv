@@ -1,0 +1,6 @@
+cluster,cluster_name,total_enrollments,num_categories,enrollment_frequency,enrollment_span_days,avg_spend,pct_paid,avg_course_rating_enrolled,recency_days,beginner_share,intermediate_share,advanced_share,Age,size,pct_of_users,Female,Male,top_3_cat
+0,Premium Explorers,1.53,1.49,0.93,57.58,211.92,0.69,3.13,160.9,0.53,0.38,0.09,24.54,226,7.5,0.465,0.535,"['Artificial Intelligence', 'Digital Marketing', 'Web Development']"
+1,Advanced Single-Shot Learners,1.29,1.27,0.97,30.1,88.16,0.42,2.78,166.86,0.07,0.07,0.86,24.54,841,28.0,0.509,0.491,"['Business', 'Design', 'Web Development']"
+2,Power Learners,9.18,6.33,1.02,264.83,104.02,0.4,3.11,43.95,0.36,0.3,0.35,24.98,771,25.7,0.524,0.476,"['Data Science', 'Project Management', 'Finance']"
+3,Intermediate Value Seekers,1.27,1.24,0.97,26.77,43.24,0.15,3.47,172.5,0.04,0.92,0.04,25.12,549,18.3,0.501,0.499,"['Cybersecurity', 'Data Science', 'Machine Learning']"
+4,Beginner Explorers,1.29,1.26,0.97,28.64,68.6,0.23,3.35,168.82,0.94,0.03,0.03,25.6,613,20.4,0.502,0.498,"['Programming', 'Digital Marketing', 'Data Science']"
